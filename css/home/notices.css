@@ -1,0 +1,14 @@
+.notices-home .title h1{ 
+	font-family: 'Titillium Web', sans-serif; 
+	text-align: center;
+	font-weight: 700;
+}
+.notices-home .images { 
+	gap: 25px;
+	margin-top: 20px;
+}
+@media(min-width: 768px){
+	.notices-home .images {
+		flex-direction: row !important;
+}
+}

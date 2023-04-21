@@ -1,0 +1,64 @@
+.benefits-home .benefits-home-image{
+	display: none;
+}
+.benefits-home-information h3{
+	font-weight: 700;
+	text-align: justify;
+	padding: 0 16px 0 0;
+}
+.benefits-home-information h3 span{
+	color:#A9CA19;
+}
+.benefits-home-information .description p{
+	text-align: justify;
+	margin: 20px 0;
+}
+
+.benefits-home-information-card .card-title{
+	font-weight: 700;
+}
+.benefits-home-information-card .card-text{
+	color: #666666;
+	text-align: justify;
+}
+.benefits-home-information-card .card{
+	box-shadow: 1px 2px 7px #dbdbdb;
+ max-width: 540px;
+ border: none;
+	border-radius: 15px;
+}
+.benefits-home-information-card .card img{
+	border-radius: 15px 15px 0 0;
+}
+@media(min-width: 768px){
+	.benefits-home {
+		display: flex;
+	}
+	.benefits-home-image, .benefits-home-information{
+		width: 50%;
+	}
+	.benefits-home .benefits-home-image{
+		display: flex;
+	}
+	.benefits-home .benefits-home-image img{
+		object-fit: contain;
+	}
+	.benefits-home-information h3{
+		padding: 0;
+		font-size: 42px;
+		text-align: inherit;
+	}
+	.benefits-home-information-card .card{
+		max-width: 100% !important;
+	}
+	.benefits-home-information-card .card img {
+		border-radius: 10px;
+		height: 115px;
+		object-fit: cover;
+		margin: 14px;
+		width: 175px;
+	}
+	.benefits-home-information-card .card-body{
+		padding-left: 0;
+	}
+}

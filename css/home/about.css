@@ -1,0 +1,70 @@
+.summary-about-company {
+	display: flex;
+	flex-direction: column-reverse;
+	margin: 50px 0;
+}
+.summary-about-company-information .title h3{
+	font: 26px 'Titillium Web', sans-serif;
+	margin-bottom: 0;
+}
+.summary-about-company-information .title strong{
+	font: 700 26px 'Titillium Web', sans-serif;
+}
+.summary-about-company-information .separator {
+	height: 4px;
+	width: 90px;
+	background: #009016;
+	display: block;
+	margin-bottom: 25px;
+}
+.summary-about-company-information .description p{
+	font: 400 14px 'Montserrat', sans-serif;
+	line-height: 24px;
+}
+.summary-about-company-information .description .see-more {
+	background: #009016;
+	padding: 10px 30px;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: 700;
+	letter-spacing: 1px;
+	display: inline-block;
+}
+
+.summary-about-company-image img {
+	border-radius: 10px;
+	margin-top: 35px;
+}
+
+@media(min-width:768px) {
+
+	/* ----------------------------------------------------------- START - Home - About ---------------------------------------------------------- */
+	.summary-about-company {
+		flex-direction: row;
+		gap: 60px;
+	}
+	.summary-about-company div {
+		width: 100%;
+	}
+	.summary-about-company-information{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.summary-about-company-information .title h3{
+		font: 32px 'Titillium Web', sans-serif;
+		margin-bottom: 0;
+	}
+	.summary-about-company-information .title strong{
+		font: 700 32px 'Titillium Web', sans-serif;
+	}
+	.summary-about-company-information .description p{
+		font: 400 16px 'Montserrat', sans-serif;
+		line-height: 28px;
+	}
+	.summary-about-company-image img {
+		height: 420px;
+		object-fit: cover;
+	}
+}
