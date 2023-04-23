@@ -10,8 +10,8 @@
       <link rel="stylesheet" href="css/global.css"/>
       <link rel="stylesheet" href="css/header.css"/>
       <link rel="stylesheet" href="css/footer.css"/>
-      <link rel="stylesheet" href="css/empresa/aboutCompleted.css"/>
-      <link rel="stylesheet" href="css/empresa/behaviors.css"/>
+      <link rel="stylesheet" href="css/produtoServicos/customerAdvantages.css"/>
+      <link rel="stylesheet" href="css/produtoServicos/applicationSolutions.css"/>
 
    </head>
    <header>
@@ -21,8 +21,9 @@
     <div class="banner-others">
      <img src="assets/banner-nossaEmpresa.jpg" width="100%"/>
     </div>
-    <?php include('components/empresa/aboutCompleted.php')?>
-    <?php include('components/empresa/behaviors.php')?>
+    <?php include('components/produtoServicos/customerAdvantages.php')?>
+    <?php include('components/produtoServicos/applicationSolutions.php')?>
+
      
       <footer>
          <?php include('components/footer.php')?>

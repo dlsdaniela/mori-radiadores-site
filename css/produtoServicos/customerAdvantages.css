@@ -1,0 +1,40 @@
+.customerAdvantages-container h1,
+.customerAdvantages-container p,
+.customerAdvantages-item h3{
+ font-family: 'Titillium Web', sans-serif;
+}
+.customerAdvantages{
+	background: #e2ffcc;
+}
+.customerAdvantages-wrapper{
+	flex-wrap: wrap;
+ gap: 10px 70px;
+ justify-content: center;
+}
+
+.customerAdvantages-item .cicle{
+	height: 120px;
+ width: 120px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ border: 3px solid #009016;
+ border-radius: 100%;
+ border-style: dashed;
+	background: #fff;
+}
+.customerAdvantages-item .cicle i{
+	font-size: 45px;
+	color: #a9ca19;
+}
+
+@media(min-width: 768px){
+	.customerAdvantages{
+		height: 450px;
+		display: flex;
+		align-items: center;
+	}
+	.customerAdvantages-wrapper{
+		gap: 10px 100px;
+	}
+}

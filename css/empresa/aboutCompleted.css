@@ -1,0 +1,44 @@
+.summary-about-company-competed{
+	display: flex;
+	flex-direction: column-reverse;
+	margin: 0 0 35px;
+}
+
+.summary-about-company-competed-information{
+	padding: 30px 15px;
+ background: #e2ffe1;
+}
+.summary-about-company-competed-information p{
+	text-align: justify;
+ font-size: 14px;
+}
+.summary-about-company-competed-information .separator {
+	height: 4px;
+	width: 90px;
+	background: #009016;
+	display: block;
+	margin-bottom: 25px;
+}
+
+@media(min-width: 768px){
+	.summary-about-company-competed {
+		flex-direction: row;
+		margin: 50px 0;
+		min-height: 575px;
+	}
+	.summary-about-company-competed-image,
+	.summary-about-company-competed-information{
+		width: 50%;
+	}
+	.summary-about-company-competed-information{
+		padding: 30px;
+	}
+	.summary-about-company-competed-image img{
+		height: 100%;
+		object-fit: cover;
+	}
+	.summary-about-company-competed-information p{
+		font-size: 16px;
+		padding: 0 50px 0px 0;
+	}
+}

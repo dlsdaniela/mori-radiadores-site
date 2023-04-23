@@ -1,0 +1,11 @@
+.application-solution .separator {
+	height: 4px;
+	width: 90px;
+	background: #009016;
+	display: block;
+}
+.application-solution-items{
+	border: 1px solid #000;
+	border-radius: 30px;
+	padding: 20px;
+}
