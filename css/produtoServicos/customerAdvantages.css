@@ -4,7 +4,7 @@
  font-family: 'Titillium Web', sans-serif;
 }
 .customerAdvantages{
-	background: #e2ffcc;
+	background: #f7f9ee;
 }
 .customerAdvantages-wrapper{
 	flex-wrap: wrap;
@@ -21,7 +21,6 @@
  border: 3px solid #009016;
  border-radius: 100%;
  border-style: dashed;
-	background: #fff;
 }
 .customerAdvantages-item .cicle i{
 	font-size: 45px;

@@ -30,15 +30,14 @@ footer{
 .footer-pages {
  gap: 10px;
 }
-.footer-pages h1 {
+.footer-pages h1,
+.footer-pages a,
+.footer-about p {
 	color: #fff;
 }
-.footer-pages a {
-	color: #fff;
-	/* text-decoration: none; */
-}
-.footer-about p{
-	color: #fff;
+.footer-pages a,
+.footer-about p {
+	font-size: 14px;
 }
 
 @media(min-width: 768px){

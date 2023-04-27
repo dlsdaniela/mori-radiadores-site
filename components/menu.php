@@ -22,7 +22,7 @@
     </div>
  </div> -->
 
- <nav class="menu navbar navbar-expand-lg bg-body-tertiary">
+ <nav class="menu navbar navbar-expand-lg">
    <div class="container-fluid p-0">
       <div class="header px-4 d-flex justify-content-between align-items-center">
       <a class="navbar-brand" href="#">
