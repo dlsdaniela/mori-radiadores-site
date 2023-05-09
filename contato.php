@@ -24,12 +24,11 @@
     </div>
     <section class="contact-page">
       <div class="container">
-         <div class="content">
+         <div class="content wrapper-contact-page d-flex">
             <div class="form-contact">
-               <div class="">
+               <div class="title-contact">
                   <h1>Envie-nos uma mensagem</h1>
-                  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices 
-posuere cubilia Curae</p>
+                  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>
                </div>
                <form>
                   <div class="form-contact-wrapper d-flex">
@@ -44,16 +43,47 @@ posuere cubilia Curae</p>
                      <textarea id="textarea" name="mensagem" placeholder="Informe sua mensagem..." required=""></textarea>
                   </div>
                   <div class="form-contact-wrapper-button">
-                     <button class="form-control btn" type="submit">enviar</button>
+                     <button class="form-control btn" type="submit">Enviar mensagem</button>
                   </div>
                </form>
             </div>
-            <div class="information-contact"></div>
+            <div class="information-contact d-flex flex-column">
+               <div class="information-contact-card d-flex align-items-center">
+                  <div class="icon d-flex align-items-center justify-content-center">
+                  <i class="fa fa-cloud"></i>
+                  </div>
+                  <div class="text">
+                     <h4>Numero do celular</h4>
+                     <span>(11) 999999-999</span>    
+                  </div>
+               </div>
+               <div class="information-contact-card d-flex align-items-center">
+                  <div class="icon d-flex align-items-center justify-content-center">
+                  <i class="fa fa-cloud"></i>
+                  </div>
+                  <div class="text">
+                     <h4>E-mail</h4>
+                     <span>moriradiadores@gmail.com</span>    
+                  </div>
+               </div>
+               <div class="information-contact-card d-flex align-items-center">
+                  <div class="icon d-flex align-items-center justify-content-center">
+                  <i class="fa fa-cloud"></i>
+                  </div>
+                  <div class="text">
+                     <h4>Localização</h4>
+                     <span>Rua das fores, nº656 - Bragança Paulista</span>    
+                  </div>
+               </div>
+            </div>
          </div>
       </div>
+     
    </section>
 
-     
+   <div class="maps">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.160850699295!2d-46.54052132367505!3d-22.94430253921489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cec98bf15b145f%3A0x824a368c5cb35494!2sMori%20Radiadores!5e0!3m2!1spt-BR!2sbr!4v1683600372879!5m2!1spt-BR!2sbr" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
       <footer>
          <?php include('components/footer.php')?>
       </footer>

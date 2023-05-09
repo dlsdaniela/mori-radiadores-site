@@ -1,16 +1,107 @@
-.contact-page{
+.contact-page {
 	background: #ECECEC;
+	padding: 30px 0;
 }
+
 .form-contact input,
-.form-contact textarea{
+.form-contact textarea {
 	width: 100%;
 	min-height: 48px;
 	padding: 0 10px;
 	border-radius: 5px;
-	border-style: none;
+	border: 1px solid #E7E7E7;
 }
-.form-contact-wrapper{
+
+.form-contact textarea {
+	min-height: 145px;
+	padding: 10px;
+}
+
+.form-contact input:focus-visible,
+.form-contact textarea:focus-visible {
+	outline: none;
+}
+
+.form-contact-wrapper {
 	flex-direction: column;
 	gap: 15px;
 	margin: 15px 0;
+}
+
+.form-contact {
+	padding: 20px 0 30px;
+	background: #fff;
+	border-radius: 15px;
+}
+
+.form-contact form,
+.title-contact {
+	margin: 0 15px;
+}
+
+.form-contact-wrapper-button button,
+.form-contact-wrapper-button button:hover {
+	background: #009016;
+	min-height: 48px;
+	color: #fff;
+	font-weight: 700;
+}
+
+.title-contact h1 {
+	font-weight: 700;
+}
+
+.information-contact .information-contact-card {
+	background: #fff;
+	border-radius: 15px;
+	padding: 15px;
+	gap: 15px;
+}
+
+.information-contact .information-contact-card .icon {
+	background: #0090162b;
+	min-width: 70px;
+	height: 70px;
+	border-radius: 100%;
+	color: #009016;
+}
+
+.information-contact .information-contact-card .text h4 {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.content.wrapper-contact-page.d-flex {
+	flex-direction: column;
+}
+
+.information-contact {
+	margin-top: 35px;
+	gap: 25px;
+}
+
+@media(min-width:768px) {
+	.content.wrapper-contact-page.d-flex {
+		flex-direction: row;
+		gap: 35px;
+	}
+
+	.form-contact form,
+	.title-contact {
+		padding: 0 30px;
+	}
+
+	.form-contact-wrapper {
+		flex-direction: row;
+		gap: 15px;
+		margin: 15px 0;
+	}
+
+	.information-contact {
+		margin-top: 0px;
+	}
+
+	.information-contact .information-contact-card {
+		min-width: 490px;
+	}
 }

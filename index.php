@@ -12,6 +12,7 @@
       <link rel="stylesheet" href="css/home/bannerPrincipal.css"/>
       <link rel="stylesheet" href="css/home/about.css"/>
       <link rel="stylesheet" href="css/home/productServices.css"/>
+      <link rel="stylesheet" href="css/home/productsServices-new.css"/>
       <link rel="stylesheet" href="css/home/vantagensHome.css"/>
       <link rel="stylesheet" href="css/home/contactHome.css"/>
       <link rel="stylesheet" href="css/home/notices.css"/>
@@ -29,8 +30,8 @@
             <span class="subtitle text-light">Vestibulum ante ipsum primis in faucibus</span>
             <span class="separador"></span>
          </div>
-         <?php include('components/home/productsServicesDesktop.php')?>
-         <?php include('components/home/productsServicesMobile.php')?>
+
+         <?php include('components/home/productsServices.php')?>
       </section>
       <?php include('components/home/vantagensHome.php')?>
       <?php include('components/home/contactHome.php')?>
