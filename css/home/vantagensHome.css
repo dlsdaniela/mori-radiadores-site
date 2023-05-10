@@ -14,6 +14,31 @@
 	margin: 20px 0;
 }
 
+.benefits-home-information-mobile{
+	gap: 5px;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: 40px;
+}
+.benefits-home-information-mobile .wrapper-image{
+	width: 49%;
+	position: relative;
+}
+
+.benefits-home-information-mobile .wrapper-image span{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: 178px;
+	width: 100%;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+	text-shadow: 1px 1px 1px #2f2f2f;
+}
+.benefits-home-information-card{
+	display: none;
+}
 .benefits-home-information-card .card-title{
 	font-weight: 700;
 }
@@ -31,6 +56,12 @@
 	border-radius: 15px 15px 0 0;
 }
 @media(min-width: 768px){
+	.benefits-home-information-mobile{
+			display: none !important;
+	}
+	.benefits-home-information-card{
+		display: block;
+	}
 	.benefits-home {
 		display: flex;
 	}

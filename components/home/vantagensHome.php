@@ -11,6 +11,24 @@
             <div class="description">
                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy.</p>
             </div>
+            <div class="benefits-home-information-mobile d-flex align-items-center justify-content-around">
+               <div class="wrapper-image ">
+                  <img src="assets/benefits-garantia-mobile.jpg" width="100%"/>
+                  <span class="d-flex align-items-center justify-content-around">Garantia</span>
+               </div>
+               <div class="wrapper-image">
+                  <img src="assets/benefits-qualidade-mobile.jpg" width="100%"/>
+                  <span class="d-flex align-items-center justify-content-around">Qualidade</span>
+               </div>
+               <div class="wrapper-image">
+                  <img src="assets/benefits-responsabilidade-mobile.jpg" width="100%"/>
+                  <span class="d-flex align-items-center justify-content-around">Responsabilidade</span>
+               </div>
+               <div class="wrapper-image">
+                  <img src="assets/benefits-garantia-mobile.jpg" width="100%"/>
+                  <span class="d-flex align-items-center justify-content-around">Segurança</span>
+               </div>
+            </div>
             <div class="benefits-home-information-card">
                <div class="card mb-3" style="max-width: 540px;">
                   <div class="row g-0">

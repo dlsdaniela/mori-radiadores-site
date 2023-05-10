@@ -28,3 +28,13 @@
  color: #a9ca19;
  font-size: 30px;
 }
+
+@media(min-width:768px) {
+    .product-service-card {
+        min-height: 200px;
+    }
+    .product-service-wrapper{
+        flex-direction: row;
+        flex-wrap: wrap;
+       }
+}

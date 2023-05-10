@@ -84,4 +84,9 @@
 	.carousel-products-services-mobile{
 		display: none;
 	}
+	
+
+.products-services {
+    min-height: 700px;
+}
 }
