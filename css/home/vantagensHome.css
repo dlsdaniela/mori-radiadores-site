@@ -87,9 +87,15 @@
 		height: 115px;
 		object-fit: cover;
 		margin: 14px;
-		width: 175px;
+		max-width: 160px;
 	}
 	.benefits-home-information-card .card-body{
 		padding-left: 0;
+	}
+}
+
+@media(min-width: 1400px){
+	.benefits-home-information-card .card img {
+		max-width: 190px;
 	}
 }

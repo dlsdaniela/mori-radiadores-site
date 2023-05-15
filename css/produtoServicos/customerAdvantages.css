@@ -2,9 +2,10 @@
 .customerAdvantages-container p,
 .customerAdvantages-item h3{
  font-family: 'Titillium Web', sans-serif;
+	color: #3F4A3C;
 }
 .customerAdvantages{
-	background: #f7f9ee;
+	background: #93BB8B;
 }
 .customerAdvantages-wrapper{
 	flex-wrap: wrap;
@@ -18,13 +19,13 @@
  display: flex;
  align-items: center;
  justify-content: center;
- border: 3px solid #009016;
+ border: 3px solid #DDF8D6;
  border-radius: 100%;
  border-style: dashed;
 }
 .customerAdvantages-item .cicle i{
 	font-size: 45px;
-	color: #a9ca19;
+	color: #DDF8D6;
 }
 
 @media(min-width: 768px){
@@ -32,6 +33,7 @@
 		height: 450px;
 		display: flex;
 		align-items: center;
+		margin-bottom: 50px;
 	}
 	.customerAdvantages-wrapper{
 		gap: 10px 100px;

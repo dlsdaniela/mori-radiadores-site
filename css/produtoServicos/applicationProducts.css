@@ -1,0 +1,21 @@
+.applicationProducts-wrapper{
+	width: 80%;
+	gap: 30px;
+	flex-direction: column;
+}
+.applicationProducts-wrapper:nth-child(even) {
+	flex-direction: column-reverse;
+}
+.imageProduct img{
+	width: 100%;
+	object-fit: cover;
+	max-height: 300px;
+}
+
+@media(min-width: 768px){
+	.applicationProducts-wrapper,
+	.applicationProducts-wrapper:nth-child(even){
+		flex-direction: row;
+		margin: 10px 0;
+	}
+}

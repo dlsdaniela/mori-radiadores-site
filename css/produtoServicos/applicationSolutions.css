@@ -1,3 +1,6 @@
+.application-solution .title{
+	padding: 0 35px;
+}
 .application-solution .separator {
 	height: 4px;
 	width: 90px;
@@ -5,35 +8,23 @@
 	display: block;
 }
 .application-solution-items{
-	gap: 30px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 }
-.application-solution-items .item{
-	box-shadow: 1px 1px 10px #dfdfdf;
-	background: #fafafa;
-	border-radius: 10px;
-	max-width: 290px;
-	display: none;
 
-}
 .application-solution-items .description{
-	padding: 20px;
+	padding: 10px 30px;
+	min-height: 150px;
+}
+
+.application-solution-items .description h3,
+.application-solution-items .description p{
+	color: #777;
 }
 .application-solution-items .image{
 	padding: 15px 15px 0;
-}
-.application-solution-items .image img{
-	border-radius: 10px;
-}
-.application-solution-show-more{
-	background: #009016;
- color: #fff;
- font-weight: 600;
-	display: block;
-	margin: 30px auto 0 auto;
 }
 @media(min-width: 768px){
 	.application-solution-items {
@@ -41,7 +32,7 @@
 		flex-wrap: wrap;
 		gap: 55px;
 }
-.application-solution-items .item{
-	width: 25%;
+.application-solution-items .description{
+	min-height: 200px;
 }
 }
