@@ -48,7 +48,12 @@
 	height: 8px;
 	border-radius: 50%;
 }
+
+.carolselPrincipal{
+	margin: 100px 0 0;
+}
 @media(min-width:768px) {
+
 		.banner-home .carousel-item {
 			height: 700px;
 		}

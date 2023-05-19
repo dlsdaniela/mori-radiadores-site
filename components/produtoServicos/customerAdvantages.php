@@ -9,7 +9,13 @@
                   <div class="cicle">
                      <i class="fa fa-truck"></i>
                   </div>
-                  <h3 class="fw-bold my-3">Garantia</h3>
+                  <h3 class="fw-bold my-3">Responsabilidade</h3>
+               </div>
+               <div class="customerAdvantages-item d-flex flex-column align-items-center my-4">
+                  <div class="cicle">
+                     <i class="fa fa-truck"></i>
+                  </div>
+                  <h3 class="fw-bold my-3">Qualidade</h3>
                </div>
                <div class="customerAdvantages-item d-flex flex-column align-items-center my-4">
                   <div class="cicle">
@@ -21,19 +27,13 @@
                   <div class="cicle">
                      <i class="fa fa-truck"></i>
                   </div>
-                  <h3 class="fw-bold my-3">Garantia</h3>
+                  <h3 class="fw-bold my-3">Velocidade</h3>
                </div>
                <div class="customerAdvantages-item d-flex flex-column align-items-center my-4">
                   <div class="cicle">
                      <i class="fa fa-truck"></i>
                   </div>
-                  <h3 class="fw-bold my-3">Garantia</h3>
-               </div>
-               <div class="customerAdvantages-item d-flex flex-column align-items-center my-4">
-                  <div class="cicle">
-                     <i class="fa fa-truck"></i>
-                  </div>
-                  <h3 class="fw-bold my-3">Garantia</h3>
+                  <h3 class="fw-bold my-3">Experiencia</h3>
                </div>
             </div>
          </div>

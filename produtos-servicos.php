@@ -14,21 +14,23 @@
       <link rel="stylesheet" href="css/produtoServicos/customerAdvantages.css"/>
       <link rel="stylesheet" href="css/produtoServicos/applicationSolutions.css"/>
       <link rel="stylesheet" href="css/produtoServicos/applicationProducts.css"/>
-
    </head>
    <header>
       <?php include('components/menu.php')?>
    </header>
    <body>
-    <div class="banner-others">
-     <img src="assets/banner-nossaEmpresa.jpg" width="100%"/>
-    </div>
-    
-    <?php include('components/produtoServicos/applicationSolutions.php')?>
-    <?php include('components/produtoServicos/customerAdvantages.php')?>
-    <?php include('components/produtoServicos/applicationProducts.php')?>
-
-     
+      <div class="banner-others">
+         <img src="assets/banner-nossaEmpresa.jpg" width="100%"/>
+      </div>
+      <section id="applicationSolutions">
+         <?php include('components/produtoServicos/applicationSolutions.php')?>
+      </section>
+      <section id="customerAdvantages">
+         <?php include('components/produtoServicos/customerAdvantages.php')?>
+      </section>
+      <section id="applicationProducts">
+         <?php include('components/produtoServicos/applicationProducts.php')?>
+      </section>
       <footer>
          <?php include('components/footer.php')?>
       </footer>

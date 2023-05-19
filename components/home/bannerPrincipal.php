@@ -1,4 +1,4 @@
-<div id="carouselBanner" class="carousel slide banner-home">
+<div id="carouselBanner" class="carolselPrincipal carousel slide banner-home">
          <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselBanner" data-bs-slide-to="0" class="dots active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselBanner" data-bs-slide-to="1" class="dots" aria-label="Slide 2"></button>

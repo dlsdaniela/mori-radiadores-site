@@ -54,7 +54,11 @@
                   </div>
                   <div class="text">
                      <h4>Numero do celular</h4>
-                     <span>(11) 999999-999</span>    
+                     <span>Atendimento: (11) 9 9561-9826 </span> 
+                     <br>   
+                     <span>Cobrança: (11) 9 7331-3584 </span>
+                     <br>   
+                     <span>Estoque: (11) 9 7480-0321 </span>
                   </div>
                </div>
                <div class="information-contact-card d-flex align-items-center">
@@ -72,7 +76,7 @@
                   </div>
                   <div class="text">
                      <h4>Localização</h4>
-                     <span>Rua das fores, nº656 - Bragança Paulista</span>    
+                     <span>Rua Campos Salles, nª25 - Matadouro - Bragança Paulista</span>    
                   </div>
                </div>
             </div>

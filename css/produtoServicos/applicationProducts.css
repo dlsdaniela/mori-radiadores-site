@@ -1,7 +1,17 @@
+.application-produts .title{
+	padding: 0 35px 10px;
+}
+.application-produts .separator {
+	height: 4px;
+	width: 90px;
+	background: #009016;
+	display: block;
+}
 .applicationProducts-wrapper{
-	width: 80%;
-	gap: 30px;
+	width: 90%;
+	gap: 15px;
 	flex-direction: column;
+	margin-top: 15px;
 }
 .applicationProducts-wrapper:nth-child(even) {
 	flex-direction: column-reverse;
@@ -17,5 +27,8 @@
 	.applicationProducts-wrapper:nth-child(even){
 		flex-direction: row;
 		margin: 10px 0;
+	}
+	.applicationProducts-wrapper{
+		width: 80%;
 	}
 }

@@ -1,7 +1,6 @@
 .divisor-contact-whatsapp { 
  background: #2F7557;
- margin: 25px 0;
- height: 216px;
+ min-height: 216px;
 }
 .divisor-contact-whatsapp h1{
 	color: #fff;

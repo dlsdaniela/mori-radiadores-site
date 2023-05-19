@@ -1,4 +1,3 @@
-
    <div class="application-solution content">
       <div class="title mt-3 d-flex text-center align-items-center flex-column">
          <h1>As <span>soluções</span> mais aplicadas</h1>
@@ -7,16 +6,16 @@
       <div class="application-solution-items">
          <div class="col-md-3 item">
             <div class="image">
-               <img src="assets/benefits-garantia.jpg" class="img-fluid" alt="..." width="100%">
+               <img src="assets/servicos/recondicionamento.jpg" class="img-fluid" alt="..." width="100%">
             </div>
             <div class="description">
-               <h3 class="text-center">Soldas em geral</h3>
+               <h3 class="text-center">Recondicionamento</h3>
                <p class="text-center">Trabalhamos com soldas em geral, soldas com aluminino, estanho, metal, ferro, phoscoper, mig, tig soldas em radiadores, intercoolers, condensadores, tanques de combustiveis, colmeias, adptaçoes e outros...</p>
             </div>
          </div>
          <div class="col-md-3 item">
             <div class="image">
-               <img src="assets/benefits-garantia.jpg" class="img-fluid" alt="..." width="100%">
+               <img src="assets/servicos/solda.jpg" class="img-fluid" alt="..." width="100%">
             </div>
             <div class="description">
                <h3 class="text-center">Soldas em geral</h3>
@@ -34,7 +33,7 @@
             </div>
          </div><div class="col-md-3 item">
             <div class="image">
-               <img src="assets/benefits-garantia.jpg" class="img-fluid" alt="..." width="100%">
+               <img src="assets/servicos/montagem.jpg" class="img-fluid" alt="..." width="100%">
             </div>
             <div class="description">
                <h3 class="text-center">Montagens</h3>
@@ -44,7 +43,7 @@
          
          <div class="col-md-3 item">
             <div class="image">
-               <img src="assets/benefits-garantia.jpg" class="img-fluid" alt="..." width="100%">
+               <img src="assets/servicos/adaptacoes.jpg" class="img-fluid" alt="..." width="100%">
             </div>
             <div class="description">
                <h3 class="text-center">Adpitações </h3>
@@ -52,7 +51,7 @@
             </div>
          </div><div class="col-md-3 item">
             <div class="image">
-               <img src="assets/benefits-garantia.jpg" class="img-fluid" alt="..." width="100%">
+               <img src="assets/servicos/arCondicionado.jpg" class="img-fluid" alt="..." width="100%">
             </div>
             <div class="description">
                <h3 class="text-center">Ar condicionado</h3>

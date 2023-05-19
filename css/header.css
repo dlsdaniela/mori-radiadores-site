@@ -3,9 +3,22 @@
 /* font-family: 'Montserrat', sans-serif;
 font-family: 'Titillium Web', sans-serif; */
 
-.logotipo{
-	width: 110px;
-	margin-top:10px;
+.image-logotipo{
+	margin-top: 0;
+	width: 122px;
+	height: 90px;
+	object-fit: cover;
+}
+.menu{
+	height: auto;
+	padding: 0;
+	height: 105px;
+	position: fixed;
+	z-index: 9;
+	width: 100%;
+	background: #fff;
+	box-shadow: none;
+	top: 0;
 }
 .nav-menu{
 	background: #009016;
@@ -16,7 +29,7 @@ font-family: 'Titillium Web', sans-serif; */
 	text-decoration: none;
 	transition: 0.5s ease;
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 700;
+	font-weight: 500;
 }
 .nav-menu .nav-link.active{
 	color: #fff;
@@ -34,6 +47,13 @@ font-family: 'Titillium Web', sans-serif; */
 @media(min-width: 768px){
 	.menu{
 		padding: 10px 100px;
+    height: 105px;
+    position: fixed;
+    z-index: 9;
+    width: 100%;
+    background: #fff;
+    box-shadow: 1px 1px 5px #cfcece;
+		top: 0;
 	}
 	.menu .header{
 		width: auto;
@@ -47,6 +67,11 @@ font-family: 'Titillium Web', sans-serif; */
 	}
 	.nav-menu .nav-link.active{
 		color: #000;
+	}
+	.image-logotipo{
+		margin-top: 15px;
+		width: auto;
+    height: 110px;
 	}
 }
 

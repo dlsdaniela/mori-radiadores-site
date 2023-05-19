@@ -16,16 +16,16 @@
          <h1>Contatos</h1>
 
          <div class="item d-flex align-items-center flex-row">
-            <i class="fa fa-cloud"></i>
-            <p class="m-0">(11)9999-5555</p>
+            <i class="fa fa-phone"></i>
+            <p class="m-0">(11) 9 9561-9826</p>
          </div>
          <div class="item d-flex align-items-center flex-row">
-            <i class="fa fa-cloud"></i>
+            <i class="fa fa-envelope"></i>
             <p class="m-0">email@gmail.com</p>
          </div>
          <div class="item d-flex align-items-center flex-row">
-            <i class="fa fa-cloud"></i>
-            <p class="m-0">Rua das flores, 455 - vila das flores - Bragança Paulista - SP</p>
+            <i class="fa fa-map-marker"></i>
+            <p class="m-0">Rua Campos Salles, Nº25 <br> Matadoraro - Bragança Paulista - SP</p>
          </div>
       </div>
    </div>

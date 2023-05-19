@@ -1,5 +1,11 @@
 <div class="container">
    <div class="content">
+   <div class="application-produts content">
+
+   <div class="title mt-3 d-flex text-center align-items-center flex-column">
+         <h1>Um pouco de nossos <span>produtos</span></h1>
+         <span class="separator"></span>
+      </div>
       <div class="applicationProducts d-flex flex-column align-items-center">
          <div class="applicationProducts-wrapper d-flex align-items-center">
             <div class="col-lg-7 imageProduct">
@@ -122,4 +128,5 @@ Peça importante no sistema de ar condicionado, peças novas e recondicionadas s
          
       </div>
    </div>
+</div>
 </div>

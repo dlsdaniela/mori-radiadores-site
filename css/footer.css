@@ -21,6 +21,7 @@ footer{
  align-items: center;
  border-radius: 50%;
 	min-width: 40px;
+	font-size: 22px;
 }
 .footer-information .item p{
 	color: #fff;
@@ -43,6 +44,9 @@ footer{
 	.footer{
 		flex-direction: row !important;
 	}
+	.footer-pages {
+		gap: 20px;
+	 }
 	.footer .footer-information,
 	.footer .footer-pages,
 	.footer .footer-about {

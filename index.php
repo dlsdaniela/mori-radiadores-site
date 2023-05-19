@@ -13,7 +13,7 @@
       <link rel="stylesheet" href="css/home/bannerPrincipal.css"/>
       <link rel="stylesheet" href="css/home/about.css"/>
       <link rel="stylesheet" href="css/home/productServices.css"/>
-      <link rel="stylesheet" href="css/home/productsServices-new.css"/>
+      <link rel="stylesheet" href="css/home/productsServices.css"/>
       <link rel="stylesheet" href="css/home/vantagensHome.css"/>
       <link rel="stylesheet" href="css/home/contactHome.css"/>
       <link rel="stylesheet" href="css/home/notices.css"/>
@@ -24,8 +24,10 @@
    </header>
    <body>
       <?php include('components/home/bannerPrincipal.php')?>
-      <?php include('components/home/about.php')?>
-      <section class="products-services d-flex flex-column">
+      <section id="aboutCompany">
+         <?php include('components/home/about.php')?>
+      </section>
+      <section id="products-services" class="products-services d-flex flex-column">
          <div class="products-services-information d-flex flex-column justify-content-center align-items-center">
             <span class="title text-light fw-bold">Produtos e serviços</span>
             <span class="subtitle text-light">Vestibulum ante ipsum primis in faucibus</span>
@@ -34,11 +36,18 @@
 
          <?php include('components/home/productsServices.php')?>
       </section>
-      <?php include('components/home/vantagensHome.php')?>
-      <?php include('components/home/contactHome.php')?>
-      <?php include('components/home/notices.php')?>
+      <section id="benefitsHome">
+         <?php include('components/home/vantagensHome.php')?>
+      </section>
+      <section id="homeWhatsapp">
+         <?php include('components/home/contactHome.php')?>
+      </section>
+      <section id="noticesHome">
+         <?php include('components/home/notices.php')?>
+      </section>
+      
       <a href="" class="whatsapp d-flex justify-content-center align-items-center">
-         <span  class="fa fa-whatsapp"></span>
+         <span class="fa fa-whatsapp"></span>
       </a>
       <footer>
          <?php include('components/footer.php')?>

@@ -7,8 +7,15 @@
 	gap: 25px;
 	margin-top: 20px;
 }
+.notices-home .images img{ 
+	max-height: 300px;
+	object-fit: contain;
+}
 @media(min-width: 768px){
 	.notices-home .images {
 		flex-direction: row !important;
-}
+	}
+	.notices-home .images img{ 
+		max-height: 400px;
+	}
 }

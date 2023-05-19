@@ -9,7 +9,25 @@ font-family: 'Titillium Web', sans-serif; */
 	box-sizing: border-box;
 	font-family: 'Montserrat', sans-serif;
 }
+#noticesHome,
+#aboutCompany,
+#benefitsHome,
+#homeWhatsapp,
+#customerAdvantages,
+#applicationProducts{
+	margin: 30px 0;
+}
 
+.banner-others {
+	margin: 100px 0 0;
+}
+@media (min-width: 992px) {
+	#noticesHome,
+#aboutCompany,
+#benefitsHome{
+	margin: 90px 0;
+}
+}
 .banner-others { 
 	height: 400px;
 }

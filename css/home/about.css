@@ -1,7 +1,7 @@
 .summary-about-company {
 	display: flex;
 	flex-direction: column-reverse;
-	margin: 50px 0;
+	gap: 30px;
 }
 .summary-about-company-information .title h3{
 	font: 26px 'Titillium Web', sans-serif;
@@ -27,14 +27,14 @@
 	border-radius: 5px;
 	color: #fff;
 	text-decoration: none;
-	font-weight: 700;
+	font-weight: 600;
 	letter-spacing: 1px;
 	display: inline-block;
+	font-size: 16px;
 }
 
 .summary-about-company-image img {
-	border-radius: 10px;
-	margin-top: 35px;
+	border-radius: 5px;
 }
 
 @media(min-width:768px) {

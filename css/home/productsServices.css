@@ -1,0 +1,83 @@
+#products-services{
+    margin: 30px 0;
+}
+.products-services { 
+    background-image: url(../../assets/servicos-produtos1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 620px;
+   }
+   .products-services-information{
+    margin: 45px 0;
+   }
+   .products-services-information .title{
+    font-size: 30px;
+   }
+   .products-services-information .separador{
+    height: 2px;
+    width: 165px;
+    background-color: #fff;
+    display: block;
+    margin: 10px;
+   }
+.product-service-wrapper{
+ gap: 30px;
+ flex-direction: column;
+ padding: 0 30px 30px;
+}
+.product-service-card{
+    width: 345px;
+    max-width: 345px;
+    border: 2px solid #005A00;
+    border-radius: 5px;
+    padding: 0 40px 10px 40px;
+    background: #004000;
+    transition: 0.5s ease-in;
+}
+.product-service-card:hover{
+    border: 2px solid #8FB586;
+}
+.product-service-card h3{
+ color: #fff;
+ text-align: center;
+ font-weight: 600;
+}
+.product-service-card p{
+ color: #fff;
+ text-align: center;
+}
+.effect-icon{
+ height: 55px;
+    width: 70px;
+    background: #b7b7b754;
+    margin: 0 auto 15px;
+    border-radius: 0 0 10px 10px;
+}
+.effect-icon i{
+ color: #F6EDD9;
+ font-size: 30px;
+}
+.product-service-button a{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    color: #F6EDD9;
+    font-weight: 600;
+    transition: 0.5s ease-in;
+    border: 1px solid #F6EDD9;
+}
+.product-service-button a:hover {
+    background: #004000;
+}
+@media(min-width:768px) {
+    .product-service-card {
+        min-height: 220px;
+        width: 490px;
+        max-width: 490px;
+    }
+    .product-service-wrapper{
+        flex-direction: row;
+        flex-wrap: wrap;
+       }
+}
