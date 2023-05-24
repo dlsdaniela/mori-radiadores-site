@@ -23,6 +23,10 @@ footer{
 	min-width: 40px;
 	font-size: 22px;
 }
+/* .footer-information .item .fa-phone{
+	transform: rotate(90deg);
+
+} */
 .footer-information .item p{
 	color: #fff;
 	font-size: 16px;

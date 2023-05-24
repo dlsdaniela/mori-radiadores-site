@@ -10,9 +10,9 @@
                <span class="separator"></span>
             </div>
             <div class="description">
-               <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy.</p>
-               <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy.</p>
-               <a href="/" class="see-more">Ler mais</a>
+               <p>A Mori Radiadores atua há mais de 40 anos em Bragança Paulista e região, fundada pelo Sr. Jose Luiz Mori hoje com 72 anos, o qual iniciou seu sonho de ter seu próprio negócio aos 20 anos de idade, começou com a oficina de soldas diversas e radiadores, depois foi para o campo de funilaria, o qual ficou por alguns anos, e após muitas dificuldades, voltou ao setor de radiadores o qual está até hoje.</p>
+               <p>Considerada referência na região , possui um amplo e diversificado estoque com radiadores novos recondicionados, linha leve e pesada além de atender também com as peças do sistema de refrigeração, aditivos e muito mais.</p>
+               <a href="empresa.php" class="see-more">Ler mais</a>
             </div>
          </div>
       </div>

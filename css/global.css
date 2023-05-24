@@ -14,7 +14,8 @@ font-family: 'Titillium Web', sans-serif; */
 #benefitsHome,
 #homeWhatsapp,
 #customerAdvantages,
-#applicationProducts{
+#applicationProducts,
+#applicationSolutions{
 	margin: 30px 0;
 }
 
@@ -24,12 +25,13 @@ font-family: 'Titillium Web', sans-serif; */
 @media (min-width: 992px) {
 	#noticesHome,
 #aboutCompany,
-#benefitsHome{
+#benefitsHome
+{
 	margin: 90px 0;
 }
 }
 .banner-others { 
-	height: 400px;
+	height: 460px;
 }
 
 .banner-others img {

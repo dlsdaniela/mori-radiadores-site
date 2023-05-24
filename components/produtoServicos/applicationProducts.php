@@ -22,7 +22,7 @@
                <p>Ou blocos de refrigeração, trabalhamos com todas as divisões, novos e recondicionados, temos estoque completo com colmeias já montadas para agilizar  o tempo dos nossos clientes,fazemos sob medida tambem...</p>
             </div>
             <div class="col-lg-7 imageProduct">
-               <img src="assets/produtos/radiadores.jpg" alt=""/>
+               <img src="assets/produtos/colmeia.jpg" alt=""/>
             </div>
          </div>
          <div class="applicationProducts-wrapper d-flex align-items-center">

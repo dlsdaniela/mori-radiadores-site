@@ -2,15 +2,15 @@
    <div class="footer content d-flex flex-column">
       <div class="footer-about">
          <img src="assets/logotipo-header.png"/>
-         <p class="mt-4">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy.</p>
+         <p class="mt-4">A Mori Radiadores é referência na região , possui um amplo e diversificado estoque com radiadores novos recondicionados, linha leve e pesada além de atender também com as peças do sistema de refrigeração, aditivos e muito mais.</p>
       </div>
       <div class="footer-pages d-flex flex-column">
          <h1>Páginas</h1>
-         <a href="">Home</a>
-         <a href="">Nossa empresa</a>
-         <a href="">Serviços e produtos</a>
-         <a href="">Nossa equipe</a>
-         <a href="">Contato</a>
+         <a href="/">Home</a>
+         <a href="empresa.php">Nossa empresa</a>
+         <a href="produtos-servicos.php">Produtos e serviços</a>
+         <a href="equipe.php">Nossa equipe</a>
+         <a href="contato.php">Contato</a>
       </div>
       <div class="footer-information d-flex flex-column">
          <h1>Contatos</h1>

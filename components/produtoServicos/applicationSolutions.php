@@ -1,5 +1,5 @@
    <div class="application-solution content">
-      <div class="title mt-3 d-flex text-center align-items-center flex-column">
+      <div class="title mt-5 d-flex text-center align-items-center flex-column">
          <h1>As <span>soluções</span> mais aplicadas</h1>
          <span class="separator"></span>
       </div>

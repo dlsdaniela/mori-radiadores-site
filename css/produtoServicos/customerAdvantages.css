@@ -30,11 +30,14 @@
 
 @media(min-width: 768px){
 	.customerAdvantages{
-		height: 450px;
 		display: flex;
 		align-items: center;
 		margin-bottom: 50px;
+		min-height: 450px;
 	}
+
+}
+@media (min-width: 1400px){
 	.customerAdvantages-wrapper{
 		gap: 10px 100px;
 	}

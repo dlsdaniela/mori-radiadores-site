@@ -9,8 +9,13 @@
                <span class="separator"></span>
             </div>
             <div class="description">
-               <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy.</p>
-               <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla mollis dapibus nunc, ut rhoncus turpis sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy.</p>
+               <p>A Mori Radiadores atua há mais de 40 anos em Bragança Paulista e região, fundada pelo Sr. Jose Luiz Mori hoje com 72 anos, o qual iniciou seu sonho de ter seu próprio negócio aos 20 anos de idade, começou com a oficina de soldas diversas e radiadores, depois foi para o campo de funilaria, o qual ficou por alguns anos, e após muitas dificuldades, voltou ao setor de radiadores o qual está até hoje.</p>
+               <p>Tem como sócios sua filha Patrícia e seu genro André os quais estão à frente da empresa há algum tempo, com o Sr. Jose atuando e colaborando nos bastidores.
+               </p>
+               <p>A Mori Radiadores é referência na região , possui um amplo e diversificado estoque com radiadores novos recondicionados, linha leve e pesada além de atender também com as peças do sistema de refrigeração, aditivos e muito mais.
+</p>
+<p>Conta com uma equipe formada por 15 profissionais, todos treinados pelos proprietários e supervisionado pelos gerentes Reinaldo(setor de campo) e Andresa(setor administrativo)</p>
+<p>Enfim uma empresa familiar, com valores passados de geração a geração, com olhar humano voltado para o bem estar dos seus colaboradores e clientes.</p>
 
             </div>
          </div>

@@ -6,8 +6,11 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
       <title>Mori Radiadores</title>
+      <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
       <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
       <link rel="stylesheet" href="css/global.css"/>
       <link rel="stylesheet" href="css/header.css"/>
       <link rel="stylesheet" href="css/footer.css"/>
@@ -20,7 +23,7 @@
    </header>
    <body>
     <div class="banner-others">
-     <img src="assets/banner-nossaEmpresa.jpg" width="100%"/>
+     <img src="assets/banners/banner-contato.jpg" width="100%"/>
     </div>
     <section class="contact-page">
       <div class="container">
@@ -88,6 +91,9 @@
    <div class="maps">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.160850699295!2d-46.54052132367505!3d-22.94430253921489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cec98bf15b145f%3A0x824a368c5cb35494!2sMori%20Radiadores!5e0!3m2!1spt-BR!2sbr!4v1683600372879!5m2!1spt-BR!2sbr" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
+      <a href="https://api.whatsapp.com/send?phone=5511995619826" target="_blanck" class="whatsapp d-flex justify-content-center align-items-center">
+         <span class="fa fa-whatsapp"></span>
+      </a>
       <footer>
          <?php include('components/footer.php')?>
       </footer>

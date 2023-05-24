@@ -27,13 +27,19 @@
 .application-solution-items .image{
 	padding: 15px 0 0;
 }
+.application-solution-items .image img{
+	object-fit: cover;
+}
 @media(min-width: 768px){
 	.application-solution-items {
 		flex-direction: row;
 		flex-wrap: wrap;
-		gap: 55px;
-}
-.application-solution-items .description{
-	min-height: 185px;
-}
+		gap: 0 55px;
+	}
+	.application-solution-items .item{
+		min-height: 475px;
+	}
+	.application-solution-items .description{
+		min-height: 185px;
+	}
 }

@@ -25,7 +25,7 @@
  <nav class="menu navbar navbar-expand-lg">
    <div class="container-fluid p-0">
       <div class="header px-4 d-flex justify-content-between align-items-center">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="/">
          <img src="assets/logotipo-header.png" alt="logotipo" class="image-logotipo"/>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,11 +34,11 @@
       </div>
       <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
          <div class="nav-menu navbar-nav">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-            <a class="nav-link" href="#">Nossa empresa</a>
-            <a class="nav-link" href="#">Produtos e serviços</a>
-            <a class="nav-link" href="#">Nossa equipe</a>
-            <a class="nav-link" href="#">Contato</a>
+            <a class="nav-link active" aria-current="page" href="/">Home</a>
+            <a class="nav-link" href="empresa.php">Nossa empresa</a>
+            <a class="nav-link" href="produtos-servicos.php">Produtos e serviços</a>
+            <a class="nav-link" href="equipe.php">Nossa equipe</a>
+            <a class="nav-link" href="contato.php">Contato</a>
          </div>
       </div>
    </div>

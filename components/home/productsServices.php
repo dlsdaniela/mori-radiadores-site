@@ -45,4 +45,4 @@ Compressores...
       </p>
    </div>
 </div>
-<div class="product-service-button d-flex align-items-center justify-content-center"><a href="/">Ver todos os produtos e serviços</a></div>
+<div class="product-service-button d-flex align-items-center justify-content-center"><a href="produtos-servicos.php">Ver todos os produtos e serviços</a></div>

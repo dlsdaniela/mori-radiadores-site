@@ -39,4 +39,7 @@
   gap: 100px;
   margin: 60px 0;
  }
+ .behaviors-information-item{
+  max-width: 375px;
+ }
 }
